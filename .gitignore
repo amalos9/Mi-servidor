@@ -1,9 +1,0 @@
-*.bat
-*.txt
-*.spec
-*.json
-test*
-build/
-dist/
-mods/
-__pycache__/
